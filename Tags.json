@@ -6,4 +6,11 @@
     "Size": 25,
     "Stroke": true
   },
+  "Vertdemons2": {
+    "Text": "🛠️ DEVELOPER",
+    "Color": "0, 255, 255",
+    "Font": "Code",
+    "Size": 20,
+    "Stroke": false
+  }
 }
