@@ -1,0 +1,9 @@
+{
+    "Salormot": {
+        "Font": "Bangers",
+        "Color": "155, 88, 88",
+        "Text": "Test",
+        "Stroke": true,
+        "Size": 50
+    }
+}
