@@ -1,1 +1,9 @@
-
+{
+  "Salormot": {
+    "Text": "👑 IMMORTAL LORD 👑",
+    "Color": "255, 215, 0",
+    "Font": "SourceSansBold",
+    "Size": 25,
+    "Stroke": true
+  },
+}
