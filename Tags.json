@@ -1,0 +1,16 @@
+{
+  "Salormot": {
+    "Text": "👑 IMMORTAL LORD 👑",
+    "Color": "255, 215, 0",
+    "Font": "SourceSansBold",
+    "Size": 25,
+    "Stroke": true
+  },
+  "Vertdemons2": {
+    "Text": "🛠️ DEVELOPER",
+    "Color": "0, 255, 255",
+    "Font": "Code",
+    "Size": 20,
+    "Stroke": false
+  }
+}
